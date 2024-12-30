@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @FemGamer
 - 👀 I’m interested in learning from the contributors from GitHub.
 - 🌱 I’m currently learning Python, COBOL, extending my skills with Financial Modelling and entering the practical world of Decentrailised Finance
-- 🍻 My published work: https://github.com/FemGamer/My_COBOL_Projects | 
+- 🍻 My published work: https://github.com/FemGamer/My_COBOL_Projects |
+- 📃My Upcoming project - Financial Analysis Calculator
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me https://www.linkedin.com/in/hetal-patel-70878084
 
